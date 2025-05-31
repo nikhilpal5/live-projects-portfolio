@@ -2,39 +2,49 @@
 
 ## 🌐 WordPress Projects
 
+# 🚀 Live Projects Portfolio
+
+Welcome to my portfolio of real-world projects! This repository highlights various client and personal projects I've worked on using WordPress, Shopify, Figma, and other frontend/backend technologies.
+
+---
+
+## 🌐 WordPress Projects
+
 - **Achalakart**  
-  [https://achalakart.in](https://achalakart.in)  
-  *E-commerce store built using WordPress & WooCommerce.*
+  🔗 [https://achalakart.in](https://achalakart.in)  
+  🛒 *E-commerce store built using WordPress & WooCommerce.*
 
 - **Raktakart**  
-  [https://raktakart.in](https://raktakart.in)  
-  *Blood donation and supplies platform using WordPress.*
+  🔗 [https://raktakart.in](https://raktakart.in)  
+  🛒 *E-commerce store built using WordPress & WooCommerce.*
+
 
 - **AVPMS NXT Level**  
-  [https://avpmsnxtlevel.in](https://avpmsnxtlevel.in)  
-  *Educational platform for advanced learning.*
+  🔗 [https://avpmsnxtlevel.in](https://avpmsnxtlevel.in)  
+ 🛒 *E-commerce store built using WordPress & WooCommerce.*
+
 
 ---
 
-## 🛒 Shopify Project
+## 🛍️ Shopify Projects
 
 - **Lollian Domi**  
-  [https://lolliandomi.com](https://lolliandomi.com)  
-  *Fashion and accessories Shopify store.*
+  🔗 [https://lolliandomi.com](https://lolliandomi.com)  
+  👗 *Fashion and accessories Shopify store.*
 
 ---
 
-## 🎨 Figma UI Design
+## 🎨 Figma UI Design Projects
 
-- **InsightFul App (Figma UI)**  
-  [View on Figma](https://www.figma.com/design/ZZe472JP4oU5UfhUz3kFRB/InsightFul-App?node-id=0-1&t=FyeCpHdczNkoIt5N-1)  
-  *SaaS-based insightful dashboard UI.*
+- **Insightful App Dashboard (Figma UI)**  
+  🔗 [View on Figma](https://www.figma.com/design/7ZE472JP4oUSUfUhZ3kFR8/InsightFul-App?node-id=0-1&t=FyeCPHdCZNkoit5N-1)  
+  📊 *SaaS-based insightful dashboard UI.*
 
 ---
 
 ## 💻 Tech Stack & Skills
 
-- React.js / Next.js
+- React.js 
 - WordPress + WooCommerce
 - Shopify Customization
 - Figma (UI/UX Design)
@@ -55,3 +65,8 @@
 
 - This repository contains only links and documentation for live projects.
 - Codebases are either private or managed on client's hosting.
+
+---
+
+### ⭐ If you liked this portfolio, don't forget to star this repo!
+
